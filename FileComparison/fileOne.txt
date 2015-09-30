@@ -1,0 +1,1 @@
+Your task is to find all of the words in this file that are not in the second file.  For example, this file contains "giraffe" and "elephant" and the other file does not.  There may be words in the second file that are not in the first file, but we don’t care about those wods.

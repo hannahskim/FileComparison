@@ -1,0 +1,1 @@
+Your task is to find all of the words in the first  file that are not in the this file.  There may be words in this file (example: "monkey"), that are not in the first file but we don’t care about these words. We only want the words from the first file that are not in the second file.
